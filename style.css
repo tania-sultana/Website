@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Century;
+}
+.header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5)), url('3.jpg');
+}
